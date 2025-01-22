@@ -31,27 +31,27 @@ We have used the **Supermarket Sales Dataset**, which includes sales records fro
    - Display multiple plots in one figure.
    - Example: Comparing different product categories across branches.
 
-## 🚀 Features
+### 🚀 Features
 - Step-by-step explanations of each plot type.
 - Hands-on implementation using Python and Matplotlib.
 - Practical insights with meaningful visualizations.
 - Dataset included for practice.
 
-## 🏆 Why This Repository?
+### 🏆 Why This Repository?
 - **No Copy-Paste Content:** Each code and explanation is personally crafted with deep research and effort.
 - **Learning-Oriented:** Best for beginners and intermediates to grasp Matplotlib concepts.
 - **Industry-Relevant Visualizations:** Useful for business insights and decision-making.
 
-## 📝 Installation & Usage
+### 📝 Installation & Usage
 1. Clone this repository:  
    ```bash
    git clone https://github.com/AsmaSheikh438/matplotlib-visualization-techniques.git
-# Install required dependencies
+### Install required dependencies
 pip install matplotlib pandas numpy
-# Run Jupyter Notebook
+#### Run Jupyter Notebook
 jupyter notebook
 
-📂 matplotlib-visualization-techniques
+### 📂 matplotlib-visualization-techniques
 ├── 📄 supermarket_sales.csv  # Dataset used for visualization
 ├── 📄 line_plot.ipynb
 ├── 📄 bar_plot.ipynb
@@ -61,14 +61,14 @@ jupyter notebook
 ├── 📄 subplots.ipynb
 └── 📄 README.md
 
-## ✨ Contribution
+### ✨ Contribution
 Feel free to fork this repository, improve the visualizations, and submit pull requests.
 ## 📜 Copyright & Disclaimer
 This repository is personally created with great effort and is not copied from any source. If you find it helpful, please provide proper credit.  
 © 2025 Asma Sheikh | GitHub: https://github.com | LinkedIn: https://www.linkedin.com
 
 
-## Happy Visualizing! 🚀
+### Happy Visualizing! 🚀
 
 This will ensure your repository includes the necessary sections for Contribution and Copyright while providing a structured and professional README.
 
