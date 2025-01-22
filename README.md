@@ -51,7 +51,8 @@ pip install matplotlib pandas numpy
 #### Run Jupyter Notebook
 jupyter notebook
 
-### 📂 matplotlib-visualization-techniques
+### 📂 Repository Structure
+📂 matplotlib-visualization-techniques
 ├── 📄 supermarket_sales.csv  # Dataset used for visualization
 ├── 📄 line_plot.ipynb
 ├── 📄 bar_plot.ipynb
@@ -60,6 +61,7 @@ jupyter notebook
 ├── 📄 scatter_plot.ipynb
 ├── 📄 subplots.ipynb
 └── 📄 README.md
+
 
 ### ✨ Contribution
 Feel free to fork this repository, improve the visualizations, and submit pull requests.
