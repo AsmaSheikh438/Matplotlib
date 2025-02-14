@@ -2,7 +2,7 @@
 
 Welcome to the **Matplotlib Visualization Techniques** repository! This project is a comprehensive guide to mastering data visualization using Matplotlib, featuring various plot types with real-world datasets.
 
-## 🛒 Dataset Used
+## 🚲 Dataset Used
 We have used the **Supermarket Sales Dataset**, which includes sales records from different branches, customer demographics, and purchase behavior. This dataset helps to visualize business insights effectively.
 
 ## 📈 Plots Covered
@@ -46,12 +46,18 @@ We have used the **Supermarket Sales Dataset**, which includes sales records fro
 1. Clone this repository:  
    ```bash
    git clone https://github.com/AsmaSheikh438/matplotlib-visualization-techniques.git
-### Install required dependencies
-pip install matplotlib pandas numpy
-#### Run Jupyter Notebook
-jupyter notebook
+   ```
+2. Install required dependencies:
+   ```bash
+   pip install matplotlib pandas numpy
+   ```
+3. Run Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
 
 ### 📂 Repository Structure
+```
 📂 matplotlib-visualization-techniques
 ├── 📄 supermarket_sales.csv  # Dataset used for visualization
 ├── 📄 line_plot.ipynb
@@ -61,16 +67,14 @@ jupyter notebook
 ├── 📄 scatter_plot.ipynb
 ├── 📄 subplots.ipynb
 └── 📄 README.md
-
+```
 
 ### ✨ Contribution
 Feel free to fork this repository, improve the visualizations, and submit pull requests.
-## 📜 Copyright & Disclaimer
-This repository is personally created with great effort and is not copied from any source. If you find it helpful, please provide proper credit.  
-© 2025 Asma Sheikh | GitHub: https://github.com | LinkedIn: https://www.linkedin.com
 
+## 📝 Copyright & Disclaimer
+This repository is personally created with great effort and is not copied from any source. If you find it helpful, please provide proper credit.  
+© 2025 Asma Sheikh | GitHub: [AsmaSheikh438](https://github.com/AsmaSheikh438) | LinkedIn: [Asma Sheikh](https://www.linkedin.com/in/fatma-sheikh-950915242)
 
 ### Happy Visualizing! 🚀
-
-This will ensure your repository includes the necessary sections for Contribution and Copyright while providing a structured and professional README.
 
